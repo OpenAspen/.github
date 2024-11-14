@@ -1,12 +1,12 @@
 # Aspen for macOS
-### Made by the community, for the community
+### Made by the community, for the community!
 Aspen is a free, open collection of tools which hopes to improve your macOS experience in one way or another.
 
 ## But, why?
 In 2022, I ([Stryxus](https://github.com/Stryxus)) bought my first macOS product, the M1 iMac. Prior to this, I had many short experiences with the Intel iMac's and I was not impressed until the overhaul when Apple Silicon invaded the desktops.
 Well, this pretty much indoctrinated me into the Apple ecosystem and now I have one of most products, consequentially allowing me to study macOS greater in-depth due to things like my increasing reliance on the entire iCloud suite.
 
-Well, as I studied macOS more, a realisation hit me, macOS is like a template almost, heck even some of the apps are (like the Health app and Fitness), so many helpful features are missing while the API's and such are there. I then began looking for apps to fill in these many voids but, suprise to me, A LOT of them were behind subscriptions or pretty steep paywalls, many of them feeling like they are deliberatly fragmented to milk money from the consumer and, almost all of them lacking features you would think would be obvious but are not there.
+Well, as I studied macOS more, a realisation hit me, macOS is like a template almost, heck even some of the apps are (like the Health app and Fitness), so many helpful features are missing while the API's and such are there. I then began looking for apps to fill in these many voids but, suprise to me, **A LOT** of them were behind subscriptions or pretty steep paywalls, many of them feeling like they are deliberatly fragmented to milk money from the consumer and, almost all of them lacking features you would think would be obvious to implement but, strangely, still are missing.
 
 So, this is where the need came into play, for a unified yet entirely modular app that provides as much granularity as possible while remaining simple for the... Not so tech savy...
 
